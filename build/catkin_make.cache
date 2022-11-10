@@ -1,0 +1,2 @@
+trixy
+-DCATKIN_DEVEL_PREFIX=/home/batman/robomechtrix_ws/devel -DCMAKE_INSTALL_PREFIX=/home/batman/robomechtrix_ws/install -G Unix Makefiles
